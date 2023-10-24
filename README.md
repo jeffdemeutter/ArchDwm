@@ -11,7 +11,7 @@ Minimal setup for Arch, including:
     I would suggest renaming this directory to `.suckless` or `.dwm`. 
 2. Run the `setup.sh` that is provided.
 3. Reboot your machine
-4. after logging in, dwm should open automaticly
+4. After logging in, dwm should open automaticly
 
 ## TODO
 - invert mouse scroll for touchpad
@@ -19,3 +19,4 @@ Minimal setup for Arch, including:
 - make popups open at the center
 - improve slstatus
 - add patch for layouts per tag
+- rice the shit out of this
