@@ -9,9 +9,10 @@ Minimal setup for Arch, including:
 ## Setup guide
 1. Clone this repo into your root `~/`  
     I would suggest renaming this directory to `.suckless` or `.dwm`. 
-2. Run the `setup.sh` that is provided.
-3. Reboot your machine
-4. After logging in, dwm should open automaticly
+2. Run `chmod +x setup.sh` before running the script
+3. Run the `setup.sh` that is provided.
+4. Reboot your machine
+5. After logging in, dwm should open automaticly
 
 ## TODO
 - invert mouse scroll for touchpad
