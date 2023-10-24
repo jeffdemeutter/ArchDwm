@@ -29,5 +29,5 @@ cd ..
 
 
 # copy these files to root
-cp .xinitrc ~/.xinitrc
-cp .bash_profile ~/.bash_profile
+cp resources/.xinitrc ~/
+cp resources/.bash_profile ~/
